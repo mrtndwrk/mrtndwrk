@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi there 👋</h1>
 
-<!--
-**mrtndwrk/mrtndwrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my page
 
-Here are some ideas to get you started:
+My name is Martin and i'm a 26 y/o Software Engineering Student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm all about working on fun projects. So if you wanna collaberate, just message me 😄
+<hr>
+<h3>Languages (apart from german & english)<br><br></h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,ts,react)](https://skillicons.dev)
+
+<hr>
+<h3>Follow me on LinkedIn</h2>
+
+<a href="https://www.linkedin.com/in/martin-dworak/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow me on LinkedIn" />
+</a>
+
+
+</div>
