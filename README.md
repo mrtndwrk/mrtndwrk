@@ -9,7 +9,8 @@ I'm all about working on fun projects. So if you wanna collaberate, just message
 <hr>
 <h3>Languages (apart from german & english)<br><br></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,ts,react)]()
+
 
 <hr>
 <h3>Follow me on LinkedIn</h2>
