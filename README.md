@@ -7,7 +7,7 @@ My name is Martin and i'm a 26 y/o Software Engineering Student.
 
 I'm all about working on fun projects. So if you wanna collaborate, just message me 😄
 <hr>
-<h3>Languages <br>(apart from german & english)<br><br></h3>
+<h3>Languages</h3> (apart from german & english)<br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,ts,react)]()
 
