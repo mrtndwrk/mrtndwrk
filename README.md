@@ -5,7 +5,7 @@
 
 My name is Martin and i'm a 26 y/o Software Engineering Student.
 
-I'm all about working on fun projects. So if you wanna collaberate, just message me 😄
+I'm all about working on fun projects. So if you wanna collaborate, just message me 😄
 <hr>
 <h3>Languages (apart from german & english)<br><br></h3>
 
