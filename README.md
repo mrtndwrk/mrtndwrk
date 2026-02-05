@@ -3,7 +3,7 @@
 
 ### Welcome to my page
 
-My name is Martin and i'm a 27 y/o Software Engineering Student.
+My name is Martin and i'm a UX/UI Designer with a Bachelors Degree in Software Engineering.
 
 I'm all about working on fun projects. So if you wanna collaborate, just message me 😄
 <hr>
