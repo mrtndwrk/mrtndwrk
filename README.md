@@ -5,12 +5,6 @@
 
 My name is Martin and i'm a UX/UI Designer with a Bachelors Degree in Software Engineering.
 
-I'm all about working on fun projects. So if you wanna collaborate, just message me 😄
-<hr>
-<h3>Languages</h3> (apart from german & english)<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,ts,react)]()
-
 
 <hr>
 <h3>Follow me on LinkedIn</h2>
@@ -18,6 +12,7 @@ I'm all about working on fun projects. So if you wanna collaborate, just message
 <a href="https://www.linkedin.com/in/martin-dworak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Follow me on LinkedIn" />
 </a>
+
 
 
 </div>
